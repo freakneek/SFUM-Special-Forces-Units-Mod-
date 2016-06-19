@@ -1,0 +1,47 @@
+spriteTypes = {	
+
+	##################################
+	### Large images for Groups ###
+	
+	spriteType = { name = "GFX_group_airborne_icon"								textureFile = "gfx/interface/counters/divisions_large/unit_paratroop_icon.dds" noOfFrames = 2 }
+	
+	##################################
+	### Large images for DIVISIONS ###
+
+	spriteType = { name = "GFX_unit_parachute_artillery_brigade_icon_medium"                                textureFile = "gfx/interface/counters/divisions_large/support_unit_para_art_brigade_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_glider_artillery_brigade_towed_icon_medium"                                textureFile = "gfx/interface/counters/divisions_large/support_unit_para_art_brigade_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_parachute_anti_tank_brigade_icon_medium"                                textureFile = "gfx/interface/counters/divisions_large/unit_para_at__brigade_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_glider_anti_tank_brigade_towed_icon_medium"                                textureFile = "gfx/interface/counters/divisions_large/unit_para_at__brigade_icon.dds" noOfFrames = 2 }									
+	spriteType = { name = "GFX_unit_parachute_anti_air_icon_medium"                                textureFile = "gfx/interface/counters/divisions_large/unit_anti_air_para_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_glider_anti_air_icon_medium"                                textureFile = "gfx/interface/counters/divisions_large/unit_anti_air_para_icon.dds" noOfFrames = 2 }
+	
+	####################################################
+	### Small images for DIVISIONS (On-map-counters) ###
+
+	
+	spriteType = { name = "GFX_unit_parachute_artillery_brigade_icon_medium_white"                        textureFile = "gfx/interface/counters/divisions_small/onmap_unit_art_icon.dds" noOfFrames = 2}
+	spriteType = { name = "GFX_unit_glider_artillery_brigade_towed_icon_medium_white"                        textureFile = "gfx/interface/counters/divisions_small/onmap_unit_art_icon.dds" noOfFrames = 2}
+	spriteType = { name = "GFX_unit_parachute_anti_tank_brigade_icon_medium_white"                        textureFile = "gfx/interface/counters/divisions_small/onmap_unit_at_icon.dds" noOfFrames = 2}
+	spriteType = { name = "GFX_unit_glider_anti_tank_brigade_towed_icon_medium_white"                        textureFile = "gfx/interface/counters/divisions_small/onmap_unit_at_icon.dds" noOfFrames = 2}
+	spriteType = { name = "GFX_unit_parachute_anti_air_icon_medium_white"                        textureFile = "gfx/interface/counters/divisions_small/onmap_unit_anti_air_icon.dds" noOfFrames = 2}
+	spriteType = { name = "GFX_unit_glider_anti_air_towed_icon_medium_white"                        textureFile = "gfx/interface/counters/divisions_small/onmap_unit_anti_air_icon.dds" noOfFrames = 2}
+	
+	###########################################
+	### Large images for DIVISION TEMPLATES ###
+
+
+	
+
+	###########################################
+	### Small images for DIVISION TEMPLATES ###
+	
+
+	#################################
+	### On-map-counters for SHIPS ###
+
+
+	#############################################################################
+	### Large ships images used in NAVAL-COMBAT-VIEW and SELECTED-FLEETS-VIEW ###
+
+	
+}
