@@ -1,13 +1,34 @@
 ﻿l_english:
  group_airborne_title:0 "Airborne battalions"
+ group_marine_title:0 "Marine battalions"
  
+ glider_infantry:0 "Glider Infantry"
  parachute_artillery_brigade:0 "Parachute Artillery"
- glider_artillery_brigade_towed:0 "Glider Artillery (Towed)"
+ glider_artillery_brigade_towed:0 "Glider Artillery"
  parachute_anti_tank_brigade:0 "Parachute Anti Tank"
- glider_anti_tank_brigade_towed:0 "Glider Anti Tank (Towed)"
+ glider_anti_tank_brigade_towed:0 "Glider Anti Tank"
  parachute_anti_air:0 "Parachute Anti Air"
  glider_anti_air:0 "Glider Anti Air (Towed)"
+ sf_pathfinders:0 "Airborne Pathfinders"
+ glider_light_armor: "Airborne Armor"
  
+ sf_marine_artillery_brigade:0 "Marine Artillery"
+ marine_anti_tank_brigade:0 "Marine Anti Tank"
+ marine_anti_air:0 "Marine Anti Air"
+ sf_marine_recon:0 "Marine Recon"
+ amphib_light_armor:0 "Amphibious Armor"
+ 
+ 
+ 
+ 
+ pack_artillery_equipment:0 "Pack Artillery"
+ pack_artillery_equipment_desc:0 ""Usefull little guns that can be broken down to be easlly transported""
+ pack_artillery_equipment_1:0 "Pre-war Pack Artillery"
+ pack_artillery_equipment_1_desc:0 "Usefull little guns that can be broken down to be easlly transported"
+ pack_artillery_equipment_2:0 " Pack Artillery"
+ pack_artillery_equipment_2_desc:0 "Usefull little guns that can be broken down to be easlly transported"
+ pack_artillery_equipment_3:0 "Advanced Pack Artillery"
+ pack_artillery_equipment_3_desc:0 "Usefull little guns that can be broken down to be easlly transported"
  
 
 
