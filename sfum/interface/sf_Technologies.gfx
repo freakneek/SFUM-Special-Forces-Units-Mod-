@@ -1,0 +1,19 @@
+spriteTypes = {	
+
+	### generic equipment tech ###
+
+	
+
+	SpriteType = {
+		name = "GFX_pack_artillery_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/Art_1_allies.dds"
+	}	
+	SpriteType = {
+		name = "GFX_pack_artillery_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/Art_2_allies.dds"
+	}	
+		SpriteType = {
+		name = "GFX_pack_artillery_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/Art_3_allies.dds"
+	}	
+	
